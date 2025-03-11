@@ -4,7 +4,7 @@ $Infosdomaine = Get-ADDomain$DN = $infosdomaine.DistinguishedName
 $DNSRoot = $Infosdomaine.DNSRoot
 
 
-$ADgrps = Import-csv .\GRP-DL.csv -Delimiter ";" 
+$ADgrps = Import-csv .\GG_GUILBAUD.SG.csv -Delimiter ";" 
 
 foreach ($grp in $ADgrps)
 {
