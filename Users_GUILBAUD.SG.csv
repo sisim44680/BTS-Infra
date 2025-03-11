@@ -1,0 +1,20 @@
+﻿Firstname;Lastname;EmployeeID;OU;Department;Description;Title
+Sophie;Martin;1;OU=Salariés Permanents,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Thomas;Dubois;2;OU=Salariés Temporaires,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Emma;Lefevre;3;OU=Formations,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des formations;Chargé de formation
+Lucas;Morel;4;OU=Ressources Humaines,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Responsable RH
+Camille;Lambert;5;OU=Comptabilité,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion financière;Comptable
+Nicolas;Bertrand;6;OU=Logistique,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Logistique;Gestionnaire Logistique
+Julie;Perrin;7;OU=Salariés Permanents,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Antoine;Garnier;8;OU=Salariés Temporaires,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Laura;Caron;9;OU=Formations,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des formations;Chargé de formation
+Alexandre;Blanchard;10;OU=Ressources Humaines,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Responsable RH
+Jean;Dupont;11;OU=Direction Générale,OU=Direction,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Direction;Direction générale;Directeur Général
+Claire;Fontaine;12;OU=Direction Marketing,OU=Direction,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Direction;Marketing;Responsable Marketing
+Marc;Lefebvre;13;OU=Direction des Opérations,OU=Direction,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Direction;Opérations;Directeur des opérations
+Catherine;Simon;14;OU=Ressources Humaines,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Responsable des RH
+Hugo;Deschamps;15;OU=Salariés Permanents,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Sébastien;Girard;16;OU=Salariés Temporaires,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des ressources humaines;Employé Administratif
+Elodie;Bernard;17;OU=Formations,OU=Salarié,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion des formations;Chargé de formation
+Patrick;Robert;18;OU=Comptabilité,OU=Administratif,OU=_GUILBAUD.SG,DC=GUILBAUD,DC=SG;Administratif;Gestion financière;Comptable
+
